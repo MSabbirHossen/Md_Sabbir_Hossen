@@ -50,5 +50,6 @@
 
 ---
 
-### **📈 GitHub Stats**  
-![Sabbir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdSabbirHossen&show_icons=true&theme=radical)  
+### 📈 GitHub Stats  
+![Sabbir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSabbirHossen&show_icons=true&theme=radical)
+  
