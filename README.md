@@ -45,7 +45,7 @@
 
 ## 🌐 Connect with Me  
 🔗 [GitHub](https://github.com/MSabbirHossen)  
-🔗 [LinkedIn](https://www.linkedin.com/in/md-sabbir-hossen-518b78331/)  
+🔗 [LinkedIn](www.linkedin.com/in/ms-hossen)  
 📩 Email: mshossen724@gmail.com  
 
 ---
