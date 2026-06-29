@@ -1,55 +1,169 @@
-# Md Sabbir Hossen
-"Web Developer | Cybersecurity Enthusiast | Student at IUM"
+# <p align="center">Hi 👋, I'm Md. Sabbir Hossen</p>
 
-# 👋 Hi, I'm Md. Sabbir Hossen  
+<p align="center">
+  <strong>Full-Stack Web Developer • Cybersecurity Learner • Lifelong Student</strong>
+</p>
 
-🌍 **Based in:** Madinah, Saudi Arabia  
-🎓 **Student at:** Islamic University of Madinah (IUM)  
-💻 **Web Developer | Cybersecurity Enthusiast**  
+<p align="center">
+  Building the future where <strong>Faith, Knowledge & Technology</strong> empower the Ummah.
+</p>
 
-## 🚀 About Me  
-- 🖥️ Learning **Front-End Web Development** (HTML, CSS, JavaScript, Tailwind CSS, React.js).  
-- 🔐 Exploring **Cybersecurity & Ethical Hacking** (OSINT, Metasploit, Wireshark).  
-- 📊 Passionate about **Data Science & IT** (SQL, Python, Spreadsheets).  
-- 🏆 Goal: **Full-Stack Developer & Cybersecurity Expert**  
-- 📖 Learning **Arabic** alongside tech.  
+<p align="center">
+  <img src="YOUR_GITHUB_BANNER_URL_HERE" alt="GitHub Banner" width="100%" />
+</p>
 
 ---
 
-## 🔧 Technologies & Tools  
-🖥️ **Front-End:**  
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=flat&logo=tailwindcss&logoColor=white)
+## 🚀 About Me
 
-🔒 **Cybersecurity:**  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23557C94.svg?style=flat&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-%231B78B1.svg?style=flat&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-%23007ACC.svg?style=flat&logo=metasploit&logoColor=white)
+I'm a Bangladeshi student currently studying Arabic at the **Islamic University of Madinah (Saudi Arabia)** while pursuing a long-term career in **Software Engineering**.
 
-📊 **Productivity & Tools:**  
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-%2300A86B.svg?style=flat&logo=google-sheets&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
+I enjoy designing modern web applications, solving real-world problems through code, and continuously learning new technologies. My goal is to become a professional **Full-Stack Developer** while building strong expertise in **Cybersecurity**.
+
+I believe technology should be built with purpose—to create solutions that make a meaningful impact.
 
 ---
 
-## 📌 Featured Projects  
-🚀 **Portfolio Website (Coming Soon)** – [GitHub Repo](#)  
-🛡️ **Cybersecurity Toolkit (Coming Soon)** – [GitHub Repo](#)  
-📊 **Learning Tracker Website (Coming Soon)** – [GitHub Repo](#)  
+## 🌱 Currently
+
+* 🚀 Building production-ready **MERN Stack** applications
+* 📚 Learning **React, Next.js, Node.js & Express.js**
+* 🔒 Exploring **Cybersecurity, OSINT & Ethical Hacking**
+* 🎓 Studying Arabic at the Islamic University of Madinah
+* ✨ Building my personal brand and developer portfolio
 
 ---
 
-## 🌐 Connect with Me  
-🔗 [GitHub](https://github.com/MSabbirHossen)  
-🔗 [LinkedIn](www.linkedin.com/in/ms-hossen)  
-📩 Email: mshossen724@gmail.com  
+## 💻 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### Languages & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman,npm" />
+</p>
+
+### Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,kali" />
+</p>
 
 ---
 
-### 📈 GitHub Stats  
-![Sabbir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSabbirHossen&show_icons=true&theme=radical)
-  
+## 📌 Featured Projects
+
+### 🌐 Personal Portfolio
+
+> Modern developer portfolio showcasing my projects, skills and journey.
+
+🔗 Live Demo: **Coming Soon**
+
+🔗 Repository: **YOUR_PORTFOLIO_REPO_LINK**
+
+---
+
+### 💼 Project 02
+
+Brief description.
+
+🔗 Live Demo: **YOUR_PROJECT_LINK**
+
+🔗 Repository: **YOUR_REPO_LINK**
+
+---
+
+### 🚀 Project 03
+
+Brief description.
+
+🔗 Live Demo: **YOUR_PROJECT_LINK**
+
+🔗 Repository: **YOUR_REPO_LINK**
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MSabbirHossen&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSabbirHossen&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MSabbirHossen&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MSabbirHossen&theme=github-compact&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Certifications
+
+* ✅ IELTS Academic — Band 7.0
+* ✅ HTML & CSS (Real-World Projects)
+* ✅ Basic IT Course
+* 🚧 More certifications coming soon...
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_FACEBOOK_PAGE">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="YOUR_X_ACCOUNT">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 📍 Information
+
+📍 Location: Madinah, Saudi Arabia
+
+📧 Email: YOUR_EMAIL
+
+🌐 Portfolio: YOUR_PORTFOLIO_URL
+
+💼 LinkedIn: YOUR_LINKEDIN_URL
+
+---
+
+> *"Learner by heart, dreamer by soul — building a future where Faith, Knowledge & Technology empower the Ummah."*
