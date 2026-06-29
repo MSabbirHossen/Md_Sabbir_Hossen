@@ -1,4 +1,8 @@
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Md.+Sabbir+Hossen;Full-Stack+Web+Developer;Cybersecurity+Learner;Building+Technology+for+the+Ummah" alt="Typing SVG" /> </p>
+<p align="center">Hi 👋, I'm Md. Sabbir Hossen</p>
+
+<p align="center"> <strong>Full-Stack Web Developer • Cybersecurity Learner • Lifelong Student</strong> </p>
+
+<p align="center"> Building the future where <strong>Faith, Knowledge & Technology</strong> empower the Ummah. </p>
 
 <p align="center"> <img src="GITHUB_BANNER.png" width="100%" alt="GitHub Banner"/> </p>
 
@@ -6,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a Bangladeshi student currently studying Arabic at the **Islamic University of Madinah (Saudi Arabia)** while pursuing a long-term career in **Software Engineering**.
+I'm <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Md.+Sabbir+Hossen;Full-Stack+Web+Developer;Cybersecurity+Learner;Building+Technology+for+the+Ummah" alt="Typing SVG" /> </p> a Bangladeshi student currently studying Arabic at the **Islamic University of Madinah (Saudi Arabia)** while pursuing a long-term career in **Software Engineering**.
 
 I enjoy designing modern web applications, solving real-world problems through code, and continuously learning new technologies. My goal is to become a professional **Full-Stack Developer** while building strong expertise in **Cybersecurity**.
 
