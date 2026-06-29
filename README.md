@@ -28,38 +28,26 @@ I believe technology should be built with purpose—to create solutions that mak
 
 ---
 
-## 💻 Tech Stack
+💻 Tech Stack
+Frontend
 
-### Frontend
+<p> <img title="HTML5" alt="HTML5" src="https://skillicons.dev/icons?i=html"/> <img title="CSS3" alt="CSS3" src="https://skillicons.dev/icons?i=css"/> <img title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=js"/> <img title="TypeScript" alt="TypeScript" src="https://skillicons.dev/icons?i=ts"/> <img title="React.js" alt="React.js" src="https://skillicons.dev/icons?i=react"/> <img title="Next.js" alt="Next.js" src="https://skillicons.dev/icons?i=nextjs"/> <img title="Tailwind CSS" alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind"/> <img title="Vite" alt="Vite" src="https://skillicons.dev/icons?i=vite"/> </p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
-</p>
+Backend
 
-### Backend
+<p> <img title="Node.js" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs"/> <img title="Express.js" alt="Express.js" src="https://skillicons.dev/icons?i=express"/> <img title="MongoDB" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb"/> <img title="Firebase" alt="Firebase" src="https://skillicons.dev/icons?i=firebase"/> </p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
+Languages & Databases
 
-### Languages & Databases
+<p> <img title="Python" alt="Python" src="https://skillicons.dev/icons?i=python"/> <img title="MySQL" alt="MySQL" src="https://skillicons.dev/icons?i=mysql"/> <img title="MongoDB" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb"/> </p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,mongodb" />
-</p>
+Tools
 
-### Tools
+<p> <img title="Git" alt="Git" src="https://skillicons.dev/icons?i=git"/> <img title="GitHub" alt="GitHub" src="https://skillicons.dev/icons?i=github"/> <img title="VS Code" alt="VS Code" src="https://skillicons.dev/icons?i=vscode"/> <img title="Linux" alt="Linux" src="https://skillicons.dev/icons?i=linux"/> <img title="Figma" alt="Figma" src="https://skillicons.dev/icons?i=figma"/> <img title="Postman" alt="Postman" src="https://skillicons.dev/icons?i=postman"/> <img title="npm" alt="npm" src="https://skillicons.dev/icons?i=npm"/> </p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman,npm" />
-</p>
+Learning
 
-### Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,kali" />
-</p>
-
+<p> <img title="Docker" alt="Docker" src="https://skillicons.dev/icons?i=docker"/> <img title="AWS" alt="AWS" src="https://skillicons.dev/icons?i=aws"/> <img title="Kali Linux" alt="Kali Linux" src="https://skillicons.dev/icons?i=kali"/> </p>
 ---
 
 ## 📌 Featured Projects
