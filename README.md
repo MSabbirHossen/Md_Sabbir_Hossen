@@ -82,20 +82,25 @@ Brief description.
 
 ---
 
-## 📊 GitHub Analytics
+📈 GitHub Analytics
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MSabbirHossen&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSabbirHossen&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=MSabbirHossen&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MSabbirHossen&theme=github-dark&hide_border=true"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSabbirHossen&layout=compact&theme=github_dark&hide_border=true"/> </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MSabbirHossen&theme=github-compact&hide_border=true"/>
-</p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSabbirHossen&theme=github-dark&hide_border=true"/> </p>
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=MSabbirHossen&theme=algolia&no-frame=true&margin-w=8&margin-h=8"/> </p>
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MSabbirHossen&theme=github-compact&hide_border=true"/> </p>
+
+🐍 Contribution Snake
+
+<p align="center"> <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MSabbirHossen&label=Profile%20Views&color=3B82F6&style=for-the-badge"/> </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:3B82F6&height=120&section=footer"/>
 
 ---
 
