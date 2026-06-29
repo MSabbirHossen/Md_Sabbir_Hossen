@@ -1,16 +1,6 @@
-# <p align="center">Hi 👋, I'm Md. Sabbir Hossen</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Md.+Sabbir+Hossen;Full-Stack+Web+Developer;Cybersecurity+Learner;Building+Technology+for+the+Ummah" alt="Typing SVG" /> </p>
 
-<p align="center">
-  <strong>Full-Stack Web Developer • Cybersecurity Learner • Lifelong Student</strong>
-</p>
-
-<p align="center">
-  Building the future where <strong>Faith, Knowledge & Technology</strong> empower the Ummah.
-</p>
-
-<p align="center">
-  <img src="GITHUB_BANNER.png" alt="GitHub Banner" width="100%" />
-</p>
+<p align="center"> <img src="GITHUB_BANNER.png" width="100%" alt="GitHub Banner"/> </p>
 
 ---
 
