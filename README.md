@@ -2,6 +2,16 @@
 
 <p align="center"> <img src="GITHUB_BANNER.png" width="100%" alt="GitHub Banner"/> </p>
 
+<p align="center"> <a href="YOUR_PORTFOLIO_URL" title="Portfolio Website"> <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/> </a>
+
+<a href="YOUR_LINKEDIN_URL" title="LinkedIn Profile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+
+<a href="YOUR_FACEBOOK_PAGE" title="Facebook Page"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
+
+<a href="YOUR_X_ACCOUNT" title="X (Twitter)"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/> </a>
+
+<a href="mailto:YOUR_EMAIL" title="Send me an Email"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+
 ---
 
 ## 🚀 About Me
