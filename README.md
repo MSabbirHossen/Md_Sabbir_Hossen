@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="./GITHUB_BANNER" alt="GitHub Banner" width="100%" />
+  <img src="GITHUB_BANNER.png" alt="GitHub Banner" width="100%" />
 </p>
 
 ---
