@@ -1,11 +1,11 @@
+
+<p align="center"> <img src="GITHUB_BANNER.png" width="100%" alt="GitHub Banner"/> </p>
+
 <p align="center">Hi 👋, I'm Md. Sabbir Hossen</p>
 
 <p align="center"> <strong>Full-Stack Web Developer • Cybersecurity Learner • Lifelong Student</strong> </p>
 
 <p align="center"> Building the future where <strong>Faith, Knowledge & Technology</strong> empower the Ummah. </p>
-
-<p align="center"> <img src="GITHUB_BANNER.png" width="100%" alt="GitHub Banner"/> </p>
-
 ---
 
 ## 🚀 About Me
