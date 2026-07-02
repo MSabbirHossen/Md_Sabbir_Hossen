@@ -35,35 +35,44 @@ I believe technology should be created with intention—to solve problems and cr
 ## 💻 Tech Stack
 
 ### Frontend
-<img title="HTML5" alt="HTML5" src="https://skillicons.dev/icons?i=html"/> 
+<p> <img title="HTML5" alt="HTML5" src="https://skillicons.dev/icons?i=html"/> 
 <img title="CSS3" alt="CSS3" src="https://skillicons.dev/icons?i=css"/> 
 <img title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=javascript"/> 
 <img title="React" alt="React" src="https://skillicons.dev/icons?i=react"/> 
 <img title="Next.js" alt="Next.js" src="https://skillicons.dev/icons?i=nextjs"/> 
 <img title="Tailwind CSS" alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind"/>
+</p>
 
 ### Backend
+<p>
 <img title="Node.js" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs"/> 
 <img title="Express.js" alt="Express.js" src="https://skillicons.dev/icons?i=express"/> 
 <img title="MongoDB" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb"/> 
 <img title="Firebase" alt="Firebase" src="https://skillicons.dev/icons?i=firebase"/>
+</p>
 
 ### Languages & Databases
+<p>
 <img title="Python" alt="Python" src="https://skillicons.dev/icons?i=python"/> 
 <img title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=javascript"/> 
 <img title="MySQL" alt="MySQL" src="https://skillicons.dev/icons?i=mysql"/> 
 <img title="MongoDB" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb"/>
+</p>
 
 ### Tools & Platforms
+<p>
 <img title="Git" alt="Git" src="https://skillicons.dev/icons?i=git"/> 
 <img title="GitHub" alt="GitHub" src="https://skillicons.dev/icons?i=github"/> 
 <img title="VS Code" alt="VS Code" src="https://skillicons.dev/icons?i=vscode"/> 
 <img title="Postman" alt="Postman" src="https://skillicons.dev/icons?i=postman"/>
+</p>
 
 ### Currently Learning
+<p>
 <img title="Docker" alt="Docker" src="https://skillicons.dev/icons?i=docker"/> 
 <img title="AWS" alt="AWS" src="https://skillicons.dev/icons?i=aws"/> 
 <img title="Kali Linux" alt="Kali Linux" src="https://skillicons.dev/icons?i=kalilinux"/>
+</p>
 
 ---
 
