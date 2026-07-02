@@ -81,17 +81,17 @@ I believe technology should be created with intention—to solve problems and cr
 ### 🌐 Digital Life Lessons
 A comprehensive platform where users can create, share, and discover meaningful life lessons and personal growth insights. Built with React, Node.js, Express, MongoDB, Firebase, and Stripe.
 - 🔗 **Live Demo:**  [PROJECT_LINK](https://digital-life-lessons-client.vercel.app/)
-- 🔗 **Repository:** [YOUR_PORTFOLIO_REPO_LINK](https://github.com/MSabbirHossen/Digital-Life-Lessons.git)
+- 🔗 **Repository:** [Digital_Life_Lessons_REPO_LINK](https://github.com/MSabbirHossen/Digital-Life-Lessons.git)
 
 ### Import Export Hub
 A full-stack MERN marketplace platform that connects exporters with importers. Browse products, manage listings, and streamline the import-export process.
-- 🔗 **Live Demo:** [YOUR_PROJECT_LINK](https://import-export-hub-client.vercel.app/)
-- 🔗 **Repository:** [YOUR_REPO_LINK](https://github.com/MSabbirHossen/export-import-project.git)
+- 🔗 **Live Demo:** [PROJECT_LINK](https://import-export-hub-client.vercel.app/)
+- 🔗 **Repository:** [Import_Export_Hub_REPO_LINK](https://github.com/MSabbirHossen/export-import-project.git)
 
 ### GameHub - Online Game Library
 A vibrant, urban-themed web application for discovering, exploring, and downloading indie games and AAA titles. GameHub provides an engaging platform for gamers to browse games, view detailed information, and connect with gaming communities.
-- 🔗 **Live Demo:** [YOUR_PROJECT_LINK](https://online-game-library.web.app/)
-- 🔗 **Repository:** [YOUR_REPO_LINK](https://github.com/MSabbirHossen/Online-Game-Library.git)
+- 🔗 **Live Demo:** [PROJECT_LINK](https://online-game-library.web.app/)
+- 🔗 **Repository:** [GameHub_REPO_LINK](https://github.com/MSabbirHossen/Online-Game-Library.git)
 
 ---
 
@@ -103,17 +103,6 @@ A vibrant, urban-themed web application for discovering, exploring, and download
               <p align="center">
                 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MSabbirHossen&theme=github-compact&hide_border=true" />
               </p>
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MSabbirHossen/MSabbirHossen/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MSabbirHossen&label=Profile%20Views&color=3B82F6&style=for-the-badge"/>
-</p>
 
 ---
 
@@ -129,23 +118,20 @@ A vibrant, urban-themed web application for discovering, exploring, and download
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL" title="Portfolio Website">
+  <a href="https://portfolio-mshossen.netlify.app/" title="Portfolio Website">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="YOUR_LINKEDIN_URL" title="LinkedIn Profile">
+  <a href="https://www.linkedin.com/in/ms-hossen/" title="LinkedIn Profile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="YOUR_FACEBOOK_PAGE" title="Facebook Page">
+  <a href="https://web.facebook.com/sabb1rhossen/" title="Facebook Profile">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="YOUR_X_ACCOUNT" title="X (Twitter)">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
   &nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL" title="Send me an Email">
+  <a href="mailto:mshossen724@gmail.com" title="Send me an Email">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -157,9 +143,9 @@ A vibrant, urban-themed web application for discovering, exploring, and download
 | Field | Details |
 |-------|---------|
 | 📍 **Location** | Madinah, Saudi Arabia |
-| 📧 **Email** | YOUR_EMAIL |
-| 🌐 **Portfolio** | YOUR_PORTFOLIO_URL |
-| 💼 **LinkedIn** | YOUR_LINKEDIN_URL |
+| 📧 **Email** | mshossen724@gmail.com |
+| 🌐 **Portfolio** | [PORTFOLIO_URL](https://portfolio-mshossen.netlify.app/) |
+| 💼 **LinkedIn** | [LINKEDIN_Profile](https://web.facebook.com/sabb1rhossen/) |
 
 ---
 
