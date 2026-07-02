@@ -55,7 +55,6 @@ I believe technology should be created with intention—to solve problems and cr
 <p>
 <img title="Python" alt="Python" src="https://skillicons.dev/icons?i=python"/> 
 <img title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=javascript"/> 
-<img title="MySQL" alt="MySQL" src="https://skillicons.dev/icons?i=mysql"/> 
 <img title="MongoDB" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb"/>
 </p>
 
@@ -71,6 +70,7 @@ I believe technology should be created with intention—to solve problems and cr
 <p>
 <img title="Docker" alt="Docker" src="https://skillicons.dev/icons?i=docker"/> 
 <img title="AWS" alt="AWS" src="https://skillicons.dev/icons?i=aws"/> 
+<img title="MySQL" alt="MySQL" src="https://skillicons.dev/icons?i=mysql"/> 
 <img title="Kali Linux" alt="Kali Linux" src="https://skillicons.dev/icons?i=kalilinux"/>
 </p>
 
