@@ -69,32 +69,30 @@ I believe technology should be created with intention—to solve problems and cr
 
 ## 📌 Featured Projects
 
-### 🌐 Personal Portfolio
-Modern developer portfolio showcasing my projects, skills, and journey.
-- 🔗 **Live Demo:** Coming Soon
-- 🔗 **Repository:** [View on GitHub](YOUR_PORTFOLIO_REPO_LINK)
+### 🌐 Digital Life Lessons
+A comprehensive platform where users can create, share, and discover meaningful life lessons and personal growth insights. Built with React, Node.js, Express, MongoDB, Firebase, and Stripe.
+- 🔗 **Live Demo:**  [PROJECT_LINK](https://digital-life-lessons-client.vercel.app/)
+- 🔗 **Repository:** [YOUR_PORTFOLIO_REPO_LINK](https://github.com/MSabbirHossen/Digital-Life-Lessons.git)
 
-### 💼 Project 02
-Brief description of your project.
-- 🔗 **Live Demo:** [View Live](YOUR_PROJECT_LINK)
-- 🔗 **Repository:** [View on GitHub](YOUR_REPO_LINK)
+### Import Export Hub
+A full-stack MERN marketplace platform that connects exporters with importers. Browse products, manage listings, and streamline the import-export process.
+- 🔗 **Live Demo:** [YOUR_PROJECT_LINK](https://import-export-hub-client.vercel.app/)
+- 🔗 **Repository:** [YOUR_REPO_LINK](https://github.com/MSabbirHossen/export-import-project.git)
 
-### 🚀 Project 03
-Brief description of your project.
-- 🔗 **Live Demo:** [View Live](YOUR_PROJECT_LINK)
-- 🔗 **Repository:** [View on GitHub](YOUR_REPO_LINK)
+### GameHub - Online Game Library
+A vibrant, urban-themed web application for discovering, exploring, and downloading indie games and AAA titles. GameHub provides an engaging platform for gamers to browse games, view detailed information, and connect with gaming communities.
+- 🔗 **Live Demo:** [YOUR_PROJECT_LINK](https://online-game-library.web.app/)
+- 🔗 **Repository:** [YOUR_REPO_LINK](https://github.com/MSabbirHossen/Online-Game-Library.git)
 
 ---
 
 ## 📈 GitHub Analytics
 
  <p align="center">
-                {' '}
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSabbirHossen&theme=github-dark&hide_border=true" />{' '}
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSabbirHossen&theme=github-dark&hide_border=true" />
               </p>
               <p align="center">
-                {' '}
-                <img src="https://github-readme-activity-graph.vercel.app/graph?username=MSabbirHossen&theme=github-compact&hide_border=true" />{' '}
+                <img src="https://github-readme-activity-graph.vercel.app/graph?username=MSabbirHossen&theme=github-compact&hide_border=true" />
               </p>
 ---
 
