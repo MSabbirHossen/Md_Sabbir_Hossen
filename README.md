@@ -2,9 +2,7 @@
 
 <p align="center"> <img src="GITHUB_BANNER.png" width="100%" alt="GitHub Banner"/> </p>
 
-<p align="center"> <a href="YOUR_PORTFOLIO_URL" title="Portfolio Website"> <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/> </a>
-
-<a href="YOUR_LINKEDIN_URL" title="LinkedIn Profile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<p align="center"> <a href="YOUR_PORTFOLIO_URL" title="Portfolio Website"> <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="YOUR_LINKEDIN_URL" title="LinkedIn Profile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
 <a href="YOUR_FACEBOOK_PAGE" title="Facebook Page"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
 
@@ -34,39 +32,26 @@ I believe technology should be built with purpose—to create solutions that mak
 
 ---
 
-## 💻 Tech Stack
+💻 Tech Stack
+Frontend
 
-### Frontend
+<p> <img title="HTML5" alt="HTML5" src="https://skillicons.dev/icons?i=html"/> <img title="CSS3" alt="CSS3" src="https://skillicons.dev/icons?i=css"/> <img title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=js"/> <img title="TypeScript" alt="TypeScript" src="https://skillicons.dev/icons?i=ts"/> <img title="React.js" alt="React.js" src="https://skillicons.dev/icons?i=react"/> <img title="Next.js" alt="Next.js" src="https://skillicons.dev/icons?i=nextjs"/> <img title="Tailwind CSS" alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind"/> <img title="Vite" alt="Vite" src="https://skillicons.dev/icons?i=vite"/> </p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
-</p>
+Backend
 
-### Backend
+<p> <img title="Node.js" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs"/> <img title="Express.js" alt="Express.js" src="https://skillicons.dev/icons?i=express"/> <img title="MongoDB" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb"/> <img title="Firebase" alt="Firebase" src="https://skillicons.dev/icons?i=firebase"/> </p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
+Languages & Databases
 
-### Languages & Databases
+<p> <img title="Python" alt="Python" src="https://skillicons.dev/icons?i=python"/> <img title="MySQL" alt="MySQL" src="https://skillicons.dev/icons?i=mysql"/> <img title="MongoDB" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb"/> </p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,mongodb" />
-</p>
+Tools
 
-### Tools
+<p> <img title="Git" alt="Git" src="https://skillicons.dev/icons?i=git"/> <img title="GitHub" alt="GitHub" src="https://skillicons.dev/icons?i=github"/> <img title="VS Code" alt="VS Code" src="https://skillicons.dev/icons?i=vscode"/> <img title="Linux" alt="Linux" src="https://skillicons.dev/icons?i=linux"/> <img title="Figma" alt="Figma" src="https://skillicons.dev/icons?i=figma"/> <img title="Postman" alt="Postman" src="https://skillicons.dev/icons?i=postman"/> <img title="npm" alt="npm" src="https://skillicons.dev/icons?i=npm"/> </p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman,npm" />
-</p>
+Learning
 
-### Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,kali" />
-</p>
-
----
+<p> <img title="Docker" alt="Docker" src="https://skillicons.dev/icons?i=docker"/> <img title="AWS" alt="AWS" src="https://skillicons.dev/icons?i=aws"/> <img title="Kali Linux" alt="Kali Linux" src="https://skillicons.dev/icons?i=kali"/> </p>
 
 ## 📌 Featured Projects
 
@@ -100,21 +85,25 @@ Brief description.
 
 ---
 
-## 📊 GitHub Analytics
+📈 GitHub Analytics
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MSabbirHossen&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSabbirHossen&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=MSabbirHossen&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MSabbirHossen&theme=github-dark&hide_border=true"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSabbirHossen&layout=compact&theme=github_dark&hide_border=true"/> </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MSabbirHossen&theme=github-compact&hide_border=true"/>
-</p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSabbirHossen&theme=github-dark&hide_border=true"/> </p>
 
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=MSabbirHossen&theme=algolia&no-frame=true&margin-w=8&margin-h=8"/> </p>
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MSabbirHossen&theme=github-compact&hide_border=true"/> </p>
+
+🐍 Contribution Snake
+
+<p align="center"> <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MSabbirHossen&label=Profile%20Views&color=3B82F6&style=for-the-badge"/> </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:3B82F6&height=120&section=footer"/>
 ---
 
 ## 🏆 Certifications
